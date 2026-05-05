@@ -1,0 +1,996 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 23:28">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3080099538">Двигатель для Volkswagen</category>
+    </categories>
+    <offers>
+      <offer id="90624615119336940661021759173361623443" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Golf 2009 BLG c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_747.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_748.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_355.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Golf 2009 BLG</model>
+        <description>Контрактный двигатель BLG для Volkswagen Golf 5 2009 года. Оригинальный пробег 113632 км. Проверен на работоспособность. Есть аукционный лист из Японии. Цена указана за голый</description>
+        <sales_notes>Цена за голый ДВС, есть аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">5</param>
+        <param name="Двигатель">BLG</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">03C100035T</param>
+        <param name="Пробег">113632 км</param>
+      </offer>
+      <offer id="121996051395324017459362731600620750857" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Golf 2009 BLG с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_747.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_748.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_355.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Golf 2009 BLG</model>
+        <description>Двигатель BLG от Volkswagen Golf 5 2009. Пробег 113632 км. Проверен, есть аукционный лист. Предоставим подробное фото и видео работы ДВС. Возможна проверка эндоскопом</description>
+        <sales_notes>Цена за голый ДВС, есть аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">5</param>
+        <param name="Двигатель">BLG</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">03C100035T</param>
+        <param name="Пробег">113632 км</param>
+      </offer>
+      <offer id="193858554115606237870654452987014437518" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Golf 2009 BLG заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_747.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_748.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_355.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Golf 2009 BLG</model>
+        <description>Контрактный двигатель BLG для Volkswagen Golf 5 2009. Оригинальный пробег 113632 км. В комплекте документы: копия ГТД, договор купли-продажи. Цена за голый двигатель</description>
+        <sales_notes>Цена за голый ДВС, есть аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">5</param>
+        <param name="Двигатель">BLG</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">03C100035T</param>
+        <param name="Пробег">113632 км</param>
+      </offer>
+      <offer id="148384422470374963440393731804737199929" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Golf 2009 BLG купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_747.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_748.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_355.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Golf 2009 BLG</model>
+        <description>Двигатель BLG Volkswagen Golf 5 2009. Пробег 113632 км. Проверен на работоспособность. Есть аукционный лист. Предоставим фото и видео. Возможна проверка эндоскопом</description>
+        <sales_notes>Цена за голый ДВС, есть аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">5</param>
+        <param name="Двигатель">BLG</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">03C100035T</param>
+        <param name="Пробег">113632 км</param>
+      </offer>
+      <offer id="187994255658470865330385383782542853913" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Golf 2009 BLG по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_747.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_748.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_355.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Golf 2009 BLG</model>
+        <description>Контрактный двигатель BLG для Volkswagen Golf 5 2009. Оригинальный пробег 113632 км. Проверен. Есть аукционный лист. Цена за голый двигатель. Документы для постановки на учёт</description>
+        <sales_notes>Цена за голый ДВС, есть аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">5</param>
+        <param name="Двигатель">BLG</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">03C100035T</param>
+        <param name="Пробег">113632 км</param>
+      </offer>
+      <offer id="45024215801041892086556152411892335020" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Golf 2009 BLG узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_354.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_747.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_748.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_355.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Golf 2009 BLG</model>
+        <description>Двигатель BLG от Volkswagen Golf 5 2009. Пробег 113632 км. Проверен на работоспособность. Есть аукционный лист. Предоставим подробное фото и видео работы ДВС</description>
+        <sales_notes>Цена за голый ДВС, есть аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">5</param>
+        <param name="Двигатель">BLG</param>
+        <param name="Год">2009</param>
+        <param name="Номер по производителю">03C100035T</param>
+        <param name="Пробег">113632 км</param>
+      </offer>
+      <offer id="289649901951516344810925901352541799865" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_303.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_741.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_742.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_289.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2012 B7 CAXA</model>
+        <description>Контрактный двигатель CAXA для Volkswagen Passat B7 2012 года. Оригинальный пробег 154 008 км. Проверен на работоспособность. В комплекте аукционный лист и полный пакет</description>
+        <sales_notes>Пробег 154 008 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03C100092</param>
+        <param name="Пробег">154008 км</param>
+      </offer>
+      <offer id="195325196193498993076828354828443638805" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_303.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_741.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_742.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_289.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2012 B7 CAXA</model>
+        <description>Двигатель CAXA от Volkswagen Passat B7 2012. Снят с автомобиля, пробег 154 008 км. Работоспособность подтверждена. Предоставляем аукционный лист, ГТД, договор купли-продажи</description>
+        <sales_notes>Пробег 154 008 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03C100092</param>
+        <param name="Пробег">154008 км</param>
+      </offer>
+      <offer id="152535082304243988373744164906340333588" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_303.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_741.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_742.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_289.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2012 B7 CAXA</model>
+        <description>Контрактный мотор CAXA для Passat B7 2012. Пробег 154 008 км. Проверен, возможна проверка эндоскопом. Цена за голый двигатель как на фото. Документы для регистрации</description>
+        <sales_notes>Пробег 154 008 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03C100092</param>
+        <param name="Пробег">154008 км</param>
+      </offer>
+      <offer id="171298527595316289518951924471804617053" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_303.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_741.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_742.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_289.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2012 B7 CAXA</model>
+        <description>Двигатель CAXA Volkswagen Passat B7 2012. Оригинальный пробег 154 008 км. Аукционный лист из Японии. Полный пакет документов. Возможна проверка эндоскопом</description>
+        <sales_notes>Пробег 154 008 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03C100092</param>
+        <param name="Пробег">154008 км</param>
+      </offer>
+      <offer id="36085825808623782880975730112766010407" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_303.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_741.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_742.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_289.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2012 B7 CAXA</model>
+        <description>Контрактный двигатель CAXA для Volkswagen Passat B7 2012. Пробег 154 008 км. Работоспособность проверена. Предоставляем фото и видео работы ДВС. Документы для постановки</description>
+        <sales_notes>Пробег 154 008 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03C100092</param>
+        <param name="Пробег">154008 км</param>
+      </offer>
+      <offer id="267071075723033784093132582521563723460" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA узнать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <price>34999</price>
+        <oldprice>38498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_303.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_741.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_742.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_289.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2012 B7 CAXA</model>
+        <description>Двигатель CAXA от Passat B7 2012. С пробегом 154 008 км. Проверен, есть аукционный лист. Цена за голый двигатель. Возможна проверка эндоскопом. Полный пакет документов</description>
+        <sales_notes>Пробег 154 008 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03C100092</param>
+        <param name="Пробег">154008 км</param>
+      </offer>
+      <offer id="66170022000236161214776838205361622939" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen New Beetle 2012 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <price>89999</price>
+        <oldprice>98998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_905.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_904.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_903.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_906.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen New Beetle 2012</model>
+        <description>Оригинальный контрактный двигатель CBZB для Volkswagen New Beetle 2012 года. Пробег 116841 км, проверен на работоспособность. В комплекте с навесным оборудованием. Возможна</description>
+        <sales_notes>Пробег 116841 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">BE</param>
+        <param name="Двигатель">CBZB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03F100031F</param>
+      </offer>
+      <offer id="92407750893269850824102784554662909376" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen New Beetle 2012 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <price>89999</price>
+        <oldprice>98998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_905.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_904.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_903.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_906.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen New Beetle 2012</model>
+        <description>Двигатель CBZB с пробегом 116841 км. Есть аукционный лист, подтверждающий привоз из Японии. Предоставляем полный пакет документов для постановки на учёт</description>
+        <sales_notes>Пробег 116841 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">BE</param>
+        <param name="Двигатель">CBZB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03F100031F</param>
+      </offer>
+      <offer id="286466807589932187237261214400112426492" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen New Beetle 2012 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <price>89999</price>
+        <oldprice>98998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_905.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_904.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_903.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_906.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen New Beetle 2012</model>
+        <description>Контрактный двигатель Volkswagen New Beetle 2012, кузов BE. Номер 03F100031F. Проверен эндоскопом по запросу. Возможна проверка и видео работы ДВС</description>
+        <sales_notes>Пробег 116841 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">BE</param>
+        <param name="Двигатель">CBZB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03F100031F</param>
+      </offer>
+      <offer id="112427954330112434478114711716755882258" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen New Beetle 2012 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <price>89999</price>
+        <oldprice>98998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_905.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_904.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_903.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_906.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen New Beetle 2012</model>
+        <description>Двигатель в сборе как на фото. Оригинальный пробег 116841 км. Предоставим подробное фото и видео работы. Документы: копия ГТД и договор купли-продажи</description>
+        <sales_notes>Пробег 116841 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">BE</param>
+        <param name="Двигатель">CBZB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03F100031F</param>
+      </offer>
+      <offer id="338231237713898773107216679370514248854" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen New Beetle 2012 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <price>89999</price>
+        <oldprice>98998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_905.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_904.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_903.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_906.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen New Beetle 2012</model>
+        <description>Двигатель CBZB от Volkswagen New Beetle 2012. В наличии на складе в Москве. Возможна продажа без навесного оборудования. Цена указана за двигатель в сборе</description>
+        <sales_notes>Пробег 116841 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">BE</param>
+        <param name="Двигатель">CBZB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03F100031F</param>
+      </offer>
+      <offer id="227282066537593040764373787240364239165" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen New Beetle 2012 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <price>89999</price>
+        <oldprice>98998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_905.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_904.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_903.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_906.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen New Beetle 2012</model>
+        <description>Контрактный двигатель с аукционным листом. Пробег 116841 км. Проверен на работоспособность. Полный пакет документов для регистрации. Звоните для уточнения</description>
+        <sales_notes>Пробег 116841 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">BE</param>
+        <param name="Двигатель">CBZB</param>
+        <param name="Год">2012</param>
+        <param name="Номер по производителю">03F100031F</param>
+      </offer>
+      <offer id="175119473484487478069538990425291705204" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <price>119999</price>
+        <oldprice>131998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_798.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_796.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_299.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_797.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2011 B7 CAXA</model>
+        <description>Контрактный двигатель CAXA для Volkswagen Passat B7 2011 года. Оригинальный пробег 107262 км. Проверен на работоспособность. В комплекте с навесным оборудованием. Возможна</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">03C100092</param>
+      </offer>
+      <offer id="129867383589543681830057447991074785231" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <price>119999</price>
+        <oldprice>131998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_798.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_796.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_299.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_797.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2011 B7 CAXA</model>
+        <description>Двигатель CAXA от Volkswagen Passat B7 2011. Пробег 107262 км. Есть аукционный лист из Японии. Предоставляем полный пакет документов для постановки на учёт</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">03C100092</param>
+      </offer>
+      <offer id="337005873028414177697667103726307882477" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <price>119999</price>
+        <oldprice>131998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_798.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_796.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_299.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_797.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2011 B7 CAXA</model>
+        <description>Двигатель в сборе CAXA для Passat B7 2011. Проверен, рабочий. Возможна проверка эндоскопом по запросу. Цена указана за двигатель как на фото</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">03C100092</param>
+      </offer>
+      <offer id="21625513569533746640616444180191392051" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <price>119999</price>
+        <oldprice>131998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_798.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_796.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_299.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_797.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2011 B7 CAXA</model>
+        <description>Контрактный двигатель CAXA 1.8 для Volkswagen Passat B7 2011. Пробег 107262 км. Документы: ГТД, ДКП. Возможна продажа без навесного</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">03C100092</param>
+      </offer>
+      <offer id="285166572534650164518752164275427343545" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <price>119999</price>
+        <oldprice>131998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_798.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_796.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_299.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_797.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2011 B7 CAXA</model>
+        <description>Двигатель CAXA от VW Passat B7 2011. Оригинальный пробег 107262 км. Проверен, есть видео работы ДВС. Полный пакет документов</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">03C100092</param>
+      </offer>
+      <offer id="159049083052084531297696846526050929357" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA узнать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <price>119999</price>
+        <oldprice>131998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_798.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_796.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_299.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_797.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Passat 2011 B7 CAXA</model>
+        <description>Двигатель CAXA для Passat B7 2011 года. С аукционным листом. Возможна проверка эндоскопом. Цена за двигатель в сборе</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">03C100092</param>
+      </offer>
+      <offer id="60662017478319535763156763153557763806" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Tiguan 2008 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <price>224999</price>
+        <oldprice>247498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_938.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_934.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_935.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_936.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Tiguan 2008</model>
+        <description>Оригинальный контрактный двигатель Volkswagen Tiguan CAWA с пробегом 75596 км. Проверен на работоспособность, есть аукционный лист. Цена за двигатель в сборе как на фото</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">NF</param>
+        <param name="Двигатель">CAWA</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">06J100033S</param>
+        <param name="Пробег">75596 км</param>
+      </offer>
+      <offer id="93236658767239019215912670437633038132" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Tiguan 2008 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <price>224999</price>
+        <oldprice>247498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_938.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_934.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_935.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_936.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Tiguan 2008</model>
+        <description>Двигатель CAWA для Volkswagen Tiguan 2008 года. Оригинальный пробег 75596 км. Возможна продажа без навесного оборудования. Предоставим подробное фото и видео работы</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">NF</param>
+        <param name="Двигатель">CAWA</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">06J100033S</param>
+        <param name="Пробег">75596 км</param>
+      </offer>
+      <offer id="27892492055415636777113058701555526871" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Tiguan 2008 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <price>224999</price>
+        <oldprice>247498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_938.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_934.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_935.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_936.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Tiguan 2008</model>
+        <description>Контрактный двигатель Volkswagen Tiguan NF CAWA. Пробег 75596 км. Есть аукционный лист. Возможна проверка эндоскопом по запросу. Полный пакет документов</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">NF</param>
+        <param name="Двигатель">CAWA</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">06J100033S</param>
+        <param name="Пробег">75596 км</param>
+      </offer>
+      <offer id="7823108565997121623038642774442357362" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Tiguan 2008 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <price>224999</price>
+        <oldprice>247498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_938.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_934.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_935.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_936.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Tiguan 2008</model>
+        <description>Двигатель в сборе Volkswagen Tiguan 2008 CAWA. Оригинальный пробег 75596 км. Проверен. Дефект: сломано несколько катушек. Цена указана за двигатель в сборе</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">NF</param>
+        <param name="Двигатель">CAWA</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">06J100033S</param>
+        <param name="Пробег">75596 км</param>
+      </offer>
+      <offer id="202497870191032917730730644730193690736" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Tiguan 2008 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <price>224999</price>
+        <oldprice>247498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_938.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_934.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_935.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_936.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Tiguan 2008</model>
+        <description>Двигатель Volkswagen Tiguan CAWA 06J100033S. Пробег 75596 км. Есть аукционный лист. Возможна продажа без навесного. Предоставим фото и видео работы ДВС</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">NF</param>
+        <param name="Двигатель">CAWA</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">06J100033S</param>
+        <param name="Пробег">75596 км</param>
+      </offer>
+      <offer id="275558744464161582209909791135072928845" available="true" type="vendor.model">
+        <name>Двигатель Volkswagen Tiguan 2008 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <price>224999</price>
+        <oldprice>247498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_938.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_934.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_935.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_936.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Tiguan 2008</model>
+        <description>Контрактный двигатель Tiguan 2008 NF CAWA. Оригинальный пробег 75596 км. Проверен на работоспособность. В наличии на складе Москва. Полный пакет документов</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">NF</param>
+        <param name="Двигатель">CAWA</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">06J100033S</param>
+        <param name="Пробег">75596 км</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_90624615119336940661021759173361623443">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <name>Двигатель Volkswagen Golf 2009 BLG c доставкой</name>
+        <description>Контрактная Двигатель Volkswagen Golf (кузов 5, двс BLG)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+      </collection>
+      <collection id="col_121996051395324017459362731600620750857">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <name>Двигатель Volkswagen Golf 2009 BLG с гарантией</name>
+        <description>Контрактная Двигатель Volkswagen Golf (кузов 5, двс BLG)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+      </collection>
+      <collection id="col_193858554115606237870654452987014437518">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <name>Двигатель Volkswagen Golf 2009 BLG заказать</name>
+        <description>Контрактная Двигатель Volkswagen Golf (кузов 5, двс BLG)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+      </collection>
+      <collection id="col_148384422470374963440393731804737199929">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <name>Двигатель Volkswagen Golf 2009 BLG купить</name>
+        <description>Контрактная Двигатель Volkswagen Golf (кузов 5, двс BLG)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+      </collection>
+      <collection id="col_187994255658470865330385383782542853913">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <name>Двигатель Volkswagen Golf 2009 BLG по низкой цене</name>
+        <description>Контрактная Двигатель Volkswagen Golf (кузов 5, двс BLG)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+      </collection>
+      <collection id="col_45024215801041892086556152411892335020">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/</url>
+        <name>Двигатель Volkswagen Golf 2009 BLG узнать стоимость</name>
+        <description>Контрактная Двигатель Volkswagen Golf (кузов 5, двс BLG)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg</picture>
+      </collection>
+      <collection id="col_289649901951516344810925901352541799865">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA c доставкой</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+      </collection>
+      <collection id="col_195325196193498993076828354828443638805">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA с гарантией</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+      </collection>
+      <collection id="col_152535082304243988373744164906340333588">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA заказать</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+      </collection>
+      <collection id="col_171298527595316289518951924471804617053">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA купить</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+      </collection>
+      <collection id="col_36085825808623782880975730112766010407">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA по низкой цене</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+      </collection>
+      <collection id="col_267071075723033784093132582521563723460">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/</url>
+        <name>Двигатель Volkswagen Passat 2012 B7 CAXA узнать</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg</picture>
+      </collection>
+      <collection id="col_66170022000236161214776838205361622939">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <name>Двигатель Volkswagen New Beetle 2012 c доставкой</name>
+        <description>Контрактная Двигатель VAG New Beetle (кузов BE, двс CBZB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+      </collection>
+      <collection id="col_92407750893269850824102784554662909376">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <name>Двигатель Volkswagen New Beetle 2012 с гарантией</name>
+        <description>Контрактная Двигатель VAG New Beetle (кузов BE, двс CBZB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+      </collection>
+      <collection id="col_286466807589932187237261214400112426492">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <name>Двигатель Volkswagen New Beetle 2012 заказать</name>
+        <description>Контрактная Двигатель VAG New Beetle (кузов BE, двс CBZB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+      </collection>
+      <collection id="col_112427954330112434478114711716755882258">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <name>Двигатель Volkswagen New Beetle 2012 купить</name>
+        <description>Контрактная Двигатель VAG New Beetle (кузов BE, двс CBZB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+      </collection>
+      <collection id="col_338231237713898773107216679370514248854">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <name>Двигатель Volkswagen New Beetle 2012 по низкой цене</name>
+        <description>Контрактная Двигатель VAG New Beetle (кузов BE, двс CBZB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+      </collection>
+      <collection id="col_227282066537593040764373787240364239165">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/</url>
+        <name>Двигатель Volkswagen New Beetle 2012 узнать стоимость</name>
+        <description>Контрактная Двигатель VAG New Beetle (кузов BE, двс CBZB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg</picture>
+      </collection>
+      <collection id="col_175119473484487478069538990425291705204">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA c доставкой</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+      </collection>
+      <collection id="col_129867383589543681830057447991074785231">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA с гарантией</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+      </collection>
+      <collection id="col_337005873028414177697667103726307882477">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA заказать</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+      </collection>
+      <collection id="col_21625513569533746640616444180191392051">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA купить</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+      </collection>
+      <collection id="col_285166572534650164518752164275427343545">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA по низкой цене</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+      </collection>
+      <collection id="col_159049083052084531297696846526050929357">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/</url>
+        <name>Двигатель Volkswagen Passat 2011 B7 CAXA узнать</name>
+        <description>Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg</picture>
+      </collection>
+      <collection id="col_60662017478319535763156763153557763806">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <name>Двигатель Volkswagen Tiguan 2008 c доставкой</name>
+        <description>Контрактная Двигатель Volkswagen Tiguan (кузов NF, двс CAWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+      </collection>
+      <collection id="col_93236658767239019215912670437633038132">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <name>Двигатель Volkswagen Tiguan 2008 с гарантией</name>
+        <description>Контрактная Двигатель Volkswagen Tiguan (кузов NF, двс CAWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+      </collection>
+      <collection id="col_27892492055415636777113058701555526871">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <name>Двигатель Volkswagen Tiguan 2008 заказать</name>
+        <description>Контрактная Двигатель Volkswagen Tiguan (кузов NF, двс CAWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+      </collection>
+      <collection id="col_7823108565997121623038642774442357362">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <name>Двигатель Volkswagen Tiguan 2008 купить</name>
+        <description>Контрактная Двигатель Volkswagen Tiguan (кузов NF, двс CAWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+      </collection>
+      <collection id="col_202497870191032917730730644730193690736">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <name>Двигатель Volkswagen Tiguan 2008 по низкой цене</name>
+        <description>Контрактная Двигатель Volkswagen Tiguan (кузов NF, двс CAWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+      </collection>
+      <collection id="col_275558744464161582209909791135072928845">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/</url>
+        <name>Двигатель Volkswagen Tiguan 2008 узнать стоимость</name>
+        <description>Контрактная Двигатель Volkswagen Tiguan (кузов NF, двс CAWA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>

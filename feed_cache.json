@@ -1,0 +1,350 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb927/": {
+        "fingerprint": "0a3dd4fac9ba7508612d34f3f3670a2f",
+        "raw_data": {
+            "h1_title": "Двигатель Volkswagen Golf 2009 BLG",
+            "brand": "Volkswagen",
+            "price_raw": "34999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_860.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_354.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_747.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_748.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_355.jpg"
+            ],
+            "specs": {
+                "Марка": "Volkswagen",
+                "Модель": "Golf",
+                "Кузов": "5",
+                "Двигатель": "BLG",
+                "Год": "2009",
+                "Номер по производителю": "03C100035T",
+                "Производитель": "VAG",
+                "Пробег": "113632 км"
+            },
+            "available": true,
+            "category_name": "Двигатель",
+            "category_usp": "",
+            "description_usp": "Контрактный двигатель BLG для Volkswagen Golf 5 2009, пробег 113632 км, проверен",
+            "sales_notes": "Цена за голый ДВС, есть аукционный лист",
+            "custom_labels": [
+                "Контрактный",
+                "Двигатель",
+                "Volkswagen",
+                "Б/У"
+            ],
+            "variations": [
+                {
+                    "title": "Двигатель Volkswagen Golf 2009 BLG",
+                    "description": "Контрактный двигатель BLG для Volkswagen Golf 5 2009 года. Оригинальный пробег 113632 км. Проверен на работоспособность. Есть аукционный лист из Японии. Цена указана за голый двигатель как на фото."
+                },
+                {
+                    "title": "Двигатель Volkswagen Golf 2009 BLG",
+                    "description": "Двигатель BLG от Volkswagen Golf 5 2009. Пробег 113632 км. Проверен, есть аукционный лист. Предоставим подробное фото и видео работы ДВС. Возможна проверка эндоскопом по запросу."
+                },
+                {
+                    "title": "Двигатель Volkswagen Golf 2009 BLG",
+                    "description": "Контрактный двигатель BLG для Volkswagen Golf 5 2009. Оригинальный пробег 113632 км. В комплекте документы: копия ГТД, договор купли-продажи. Цена за голый двигатель."
+                },
+                {
+                    "title": "Двигатель Volkswagen Golf 2009 BLG",
+                    "description": "Двигатель BLG Volkswagen Golf 5 2009. Пробег 113632 км. Проверен на работоспособность. Есть аукционный лист. Предоставим фото и видео. Возможна проверка эндоскопом."
+                },
+                {
+                    "title": "Двигатель Volkswagen Golf 2009 BLG",
+                    "description": "Контрактный двигатель BLG для Volkswagen Golf 5 2009. Оригинальный пробег 113632 км. Проверен. Есть аукционный лист. Цена за голый двигатель. Документы для постановки на учёт."
+                },
+                {
+                    "title": "Двигатель Volkswagen Golf 2009 BLG",
+                    "description": "Двигатель BLG от Volkswagen Golf 5 2009. Пробег 113632 км. Проверен на работоспособность. Есть аукционный лист. Предоставим подробное фото и видео работы ДВС."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Двигатель {Марка} {Модель} {Год} {Двигатель} контрактный, пробег {Пробег}, проверен, есть аукционный лист",
+            "collection_description": "Контрактная Двигатель Volkswagen Golf (кузов 5, двс BLG)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:26:33.385127"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0eb9c3/": {
+        "fingerprint": "fd500230867b663b2363a0340c40ba02",
+        "raw_data": {
+            "h1_title": "Двигатель Volkswagen Passat 2012 B7 CAXA",
+            "brand": "Volkswagen",
+            "price_raw": "34999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_856.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_303.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_741.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/27/0006_27_742.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0006/21/0006_21_289.jpg"
+            ],
+            "specs": {
+                "Марка": "Volkswagen",
+                "Модель": "Passat",
+                "Кузов": "B7",
+                "Двигатель": "CAXA",
+                "Год": "2012",
+                "Номер по производителю": "03C100092",
+                "Производитель": "VAG",
+                "Пробег": "154008 км"
+            },
+            "available": true,
+            "category_name": "Двигатель",
+            "category_usp": "",
+            "description_usp": "Контрактный двигатель CAXA для Volkswagen Passat B7 2012, пробег 154 008 км, проверен, с аукционным листом",
+            "sales_notes": "Пробег 154 008 км, аукционный лист, полный пакет документов",
+            "custom_labels": [
+                "Контрактный",
+                "Двигатель",
+                "Volkswagen",
+                "Б/У"
+            ],
+            "variations": [
+                {
+                    "title": "Двигатель Volkswagen Passat 2012 B7 CAXA",
+                    "description": "Контрактный двигатель CAXA для Volkswagen Passat B7 2012 года. Оригинальный пробег 154 008 км. Проверен на работоспособность. В комплекте аукционный лист и полный пакет документов для постановки на учёт."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2012 B7 CAXA",
+                    "description": "Двигатель CAXA от Volkswagen Passat B7 2012. Снят с автомобиля, пробег 154 008 км. Работоспособность подтверждена. Предоставляем аукционный лист, ГТД, договор купли-продажи."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2012 B7 CAXA",
+                    "description": "Контрактный мотор CAXA для Passat B7 2012. Пробег 154 008 км. Проверен, возможна проверка эндоскопом. Цена за голый двигатель как на фото. Документы для регистрации."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2012 B7 CAXA",
+                    "description": "Двигатель CAXA Volkswagen Passat B7 2012. Оригинальный пробег 154 008 км. Аукционный лист из Японии. Полный пакет документов. Возможна проверка эндоскопом."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2012 B7 CAXA",
+                    "description": "Контрактный двигатель CAXA для Volkswagen Passat B7 2012. Пробег 154 008 км. Работоспособность проверена. Предоставляем фото и видео работы ДВС. Документы для постановки на учёт."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2012 B7 CAXA",
+                    "description": "Двигатель CAXA от Passat B7 2012. С пробегом 154 008 км. Проверен, есть аукционный лист. Цена за голый двигатель. Возможна проверка эндоскопом. Полный пакет документов."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Двигатель {Марка} {Модель} {Год} {Кузов} {Двигатель} контрактный, пробег {Пробег}, проверен, с документами",
+            "collection_description": "Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:27:00.163391"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e15cd/": {
+        "fingerprint": "388d5f51575b9ba97909011330f7d136",
+        "raw_data": {
+            "h1_title": "Двигатель Volkswagen New Beetle 2012",
+            "brand": "VAG",
+            "price_raw": "89999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_436.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_905.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_904.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_903.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/41/0008_41_906.jpg"
+            ],
+            "specs": {
+                "Марка": "Volkswagen",
+                "Модель": "New Beetle",
+                "Кузов": "BE",
+                "Двигатель": "CBZB",
+                "Год": "2012",
+                "Номер по производителю": "03F100031F",
+                "Производитель": "VAG"
+            },
+            "available": true,
+            "category_name": "Двигатель",
+            "category_usp": "",
+            "description_usp": "Двигатель CBZB Volkswagen New Beetle BE, пробег 116841 км, проверен",
+            "sales_notes": "Пробег 116841 км, аукционный лист, возможна продажа без навесного",
+            "custom_labels": [
+                "Контрактный",
+                "Двигатель",
+                "VAG",
+                "Б/У"
+            ],
+            "variations": [
+                {
+                    "title": "Двигатель Volkswagen New Beetle 2012",
+                    "description": "Оригинальный контрактный двигатель CBZB для Volkswagen New Beetle 2012 года. Пробег 116841 км, проверен на работоспособность. В комплекте с навесным оборудованием. Возможна продажа без навесного."
+                },
+                {
+                    "title": "Двигатель Volkswagen New Beetle 2012",
+                    "description": "Двигатель CBZB с пробегом 116841 км. Есть аукционный лист, подтверждающий привоз из Японии. Предоставляем полный пакет документов для постановки на учёт."
+                },
+                {
+                    "title": "Двигатель Volkswagen New Beetle 2012",
+                    "description": "Контрактный двигатель Volkswagen New Beetle 2012, кузов BE. Номер 03F100031F. Проверен эндоскопом по запросу. Возможна проверка и видео работы ДВС."
+                },
+                {
+                    "title": "Двигатель Volkswagen New Beetle 2012",
+                    "description": "Двигатель в сборе как на фото. Оригинальный пробег 116841 км. Предоставим подробное фото и видео работы. Документы: копия ГТД и договор купли-продажи."
+                },
+                {
+                    "title": "Двигатель Volkswagen New Beetle 2012",
+                    "description": "Двигатель CBZB от Volkswagen New Beetle 2012. В наличии на складе в Москве. Возможна продажа без навесного оборудования. Цена указана за двигатель в сборе."
+                },
+                {
+                    "title": "Двигатель Volkswagen New Beetle 2012",
+                    "description": "Контрактный двигатель с аукционным листом. Пробег 116841 км. Проверен на работоспособность. Полный пакет документов для регистрации. Звоните для уточнения."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Двигатель [Марка] [Модель] [Год] [Двигатель] - [Ключевые характеристики]",
+            "collection_description": "Контрактная Двигатель VAG New Beetle (кузов BE, двс CBZB)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:27:27.539875"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0df141/": {
+        "fingerprint": "c7f13d84b88000af57a1f58ca7246552",
+        "raw_data": {
+            "h1_title": "Двигатель Volkswagen Passat 2011 B7 CAXA",
+            "brand": "Volkswagen",
+            "price_raw": "119999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_340.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_798.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_796.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_299.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_797.jpg"
+            ],
+            "specs": {
+                "Марка": "Volkswagen",
+                "Модель": "Passat",
+                "Кузов": "B7",
+                "Двигатель": "CAXA",
+                "Год": "2011",
+                "Номер по производителю": "03C100092",
+                "Производитель": "VAG"
+            },
+            "available": true,
+            "category_name": "Двигатель",
+            "category_usp": "",
+            "description_usp": "Двигатель CAXA Volkswagen Passat B7, пробег 107262 км, проверен, с аукционным листом",
+            "sales_notes": "Цена за двигатель в сборе, возможна продажа без навесного",
+            "custom_labels": [
+                "Контрактный",
+                "Двигатель",
+                "Volkswagen",
+                "Б/У"
+            ],
+            "variations": [
+                {
+                    "title": "Двигатель Volkswagen Passat 2011 B7 CAXA",
+                    "description": "Контрактный двигатель CAXA для Volkswagen Passat B7 2011 года. Оригинальный пробег 107262 км. Проверен на работоспособность. В комплекте с навесным оборудованием. Возможна продажа без навесного."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2011 B7 CAXA",
+                    "description": "Двигатель CAXA от Volkswagen Passat B7 2011. Пробег 107262 км. Есть аукционный лист из Японии. Предоставляем полный пакет документов для постановки на учёт."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2011 B7 CAXA",
+                    "description": "Двигатель в сборе CAXA для Passat B7 2011. Проверен, рабочий. Возможна проверка эндоскопом по запросу. Цена указана за двигатель как на фото."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2011 B7 CAXA",
+                    "description": "Контрактный двигатель CAXA 1.8 для Volkswagen Passat B7 2011. Пробег 107262 км. Документы: ГТД, ДКП. Возможна продажа без навесного."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2011 B7 CAXA",
+                    "description": "Двигатель CAXA от VW Passat B7 2011. Оригинальный пробег 107262 км. Проверен, есть видео работы ДВС. Полный пакет документов."
+                },
+                {
+                    "title": "Двигатель Volkswagen Passat 2011 B7 CAXA",
+                    "description": "Двигатель CAXA для Passat B7 2011 года. С аукционным листом. Возможна проверка эндоскопом. Цена за двигатель в сборе."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Двигатель {Марка} {Модель} {Год} {Кузов} {Двигатель} контрактный, пробег {пробег}, проверен, с документами",
+            "collection_description": "Контрактная Двигатель Volkswagen Passat (кузов B7, двс CAXA)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:27:55.325606"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3a3/": {
+        "fingerprint": "7de3d7cae8783f781356893f5bcd6e94",
+        "raw_data": {
+            "h1_title": "Двигатель Volkswagen Tiguan 2008",
+            "brand": "Volkswagen",
+            "price_raw": "224999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_933.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_938.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_934.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_935.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_936.jpg"
+            ],
+            "specs": {
+                "Марка": "Volkswagen",
+                "Модель": "Tiguan",
+                "Кузов": "NF",
+                "Двигатель": "CAWA",
+                "Год": "2008",
+                "Номер по производителю": "06J100033S",
+                "Производитель": "VAG",
+                "Пробег": "75596 км"
+            },
+            "available": true,
+            "category_name": "Двигатель",
+            "category_usp": "",
+            "description_usp": "Двигатель Volkswagen Tiguan CAWA, оригинальный пробег 75596 км, проверен на работоспособность, ",
+            "sales_notes": "Цена за двигатель в сборе, возможна продажа без навесного, предоставим фото и видео работы",
+            "custom_labels": [
+                "Контрактный",
+                "Двигатель",
+                "Volkswagen",
+                "Б/У"
+            ],
+            "variations": [
+                {
+                    "title": "Двигатель Volkswagen Tiguan 2008",
+                    "description": "Оригинальный контрактный двигатель Volkswagen Tiguan CAWA с пробегом 75596 км. Проверен на работоспособность, есть аукционный лист. Цена за двигатель в сборе как на фото."
+                },
+                {
+                    "title": "Двигатель Volkswagen Tiguan 2008",
+                    "description": "Двигатель CAWA для Volkswagen Tiguan 2008 года. Оригинальный пробег 75596 км. Возможна продажа без навесного оборудования. Предоставим подробное фото и видео работы."
+                },
+                {
+                    "title": "Двигатель Volkswagen Tiguan 2008",
+                    "description": "Контрактный двигатель Volkswagen Tiguan NF CAWA. Пробег 75596 км. Есть аукционный лист. Возможна проверка эндоскопом по запросу. Полный пакет документов."
+                },
+                {
+                    "title": "Двигатель Volkswagen Tiguan 2008",
+                    "description": "Двигатель в сборе Volkswagen Tiguan 2008 CAWA. Оригинальный пробег 75596 км. Проверен. Дефект: сломано несколько катушек. Цена указана за двигатель в сборе."
+                },
+                {
+                    "title": "Двигатель Volkswagen Tiguan 2008",
+                    "description": "Двигатель Volkswagen Tiguan CAWA 06J100033S. Пробег 75596 км. Есть аукционный лист. Возможна продажа без навесного. Предоставим фото и видео работы ДВС."
+                },
+                {
+                    "title": "Двигатель Volkswagen Tiguan 2008",
+                    "description": "Контрактный двигатель Tiguan 2008 NF CAWA. Оригинальный пробег 75596 км. Проверен на работоспособность. В наличии на складе Москва. Полный пакет документов."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Двигатель [Марка] [Модель] [Год] [Кузов] [Двигатель] - Оригинальный пробег [Пробег]км - Проверен на работоспособность - Есть аукционный лист - Цена за двигатель в сборе как на фото - Возможна продажа без навесного оборудования - Предоставим подробное фото и видео работы ДВС - Возможна проверка эндоскопом по запросу - Полный пакет документов",
+            "collection_description": "Контрактная Двигатель Volkswagen Tiguan (кузов NF, двс CAWA)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:28:22.494743"
+    }
+}
